@@ -199,6 +199,16 @@ When the parameter is omitted, the API returns data for all available years.
 
 ---
 
+## Technical Documentation
+
+Detailed technical documentation is available in the `docs` directory:
+
+- [Application Modules](docs/Application_Modules.md)
+- [Architecture](docs/Architecture.md)
+- [REST API](docs/API.md)
+
+---
+
 ## Project Structure
 
 ```text
@@ -210,6 +220,11 @@ Northwind_Vue_Dashboard/
 │   ├── test-db.js
 │   ├── package.json
 │   └── .gitignore
+│
+├── docs/
+│   ├── API.md
+│   ├── Application_Modules.md
+│   └── Architecture.md
 │
 ├── public/
 │
@@ -229,6 +244,12 @@ Northwind_Vue_Dashboard/
 ├── index.html
 ├── package.json
 ├── package-lock.json
+│
+├── docs/
+│   ├── API.md
+│   ├── Application_Modules.md
+│   └── Architecture.md
+│
 ├── vite.config.js
 └── README.md
 ```
