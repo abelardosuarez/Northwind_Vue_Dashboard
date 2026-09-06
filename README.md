@@ -70,6 +70,25 @@ Vue.js
         ↓
 Interactive Dashboard
 ```
+---
+
+## Dashboard Screenshots
+
+### All Years
+
+![Northwind Sales Analytics Dashboard - All Years](screenshots/dashboard-all-years.png)
+
+### 1996
+
+![Northwind Sales Analytics Dashboard - 1996](screenshots/dashboard-1996.png)
+
+### 1997
+
+![Northwind Sales Analytics Dashboard - 1997](screenshots/dashboard-1997.png)
+
+### 1998
+
+![Northwind Sales Analytics Dashboard - 1998](screenshots/dashboard-1998.png)
 
 ---
 
