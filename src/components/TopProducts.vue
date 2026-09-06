@@ -87,6 +87,12 @@ const chartOptions = {
   },
 
   scales: {
+  y: {
+    ticks: {
+      autoSkip: false
+    }
+  },
+
     x: {
       beginAtZero: true,
 
