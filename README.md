@@ -228,6 +228,12 @@ Northwind_Vue_Dashboard/
 │
 ├── public/
 │
+├── screenshots/
+│   ├── dashboard-all-years.png
+│   ├── dashboard-1996.png
+│   ├── dashboard-1997.png
+│   └── dashboard-1998.png
+│
 ├── src/
 │   ├── components/
 │   │   ├── KpiCard.vue
@@ -237,19 +243,14 @@ Northwind_Vue_Dashboard/
 │   │   └── TopCategories.vue
 │   │
 │   ├── App.vue
-│   └── main.js
+│   ├── main.js
+│   └── start_system.md
 │
 ├── .gitignore
 ├── eslint.config.js
 ├── index.html
 ├── package.json
 ├── package-lock.json
-│
-├── docs/
-│   ├── API.md
-│   ├── Application_Modules.md
-│   └── Architecture.md
-│
 ├── vite.config.js
 └── README.md
 ```
